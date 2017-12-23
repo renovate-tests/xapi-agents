@@ -1,5 +1,6 @@
 {
   "extends": [":library"],
+  "renovateFork": true,
   "automerge": true,
   "automergeType": "branch-push",
   "major": {
